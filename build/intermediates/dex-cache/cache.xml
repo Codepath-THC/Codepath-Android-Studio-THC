@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/android-support-v4-690b7db4d95eb9880b4797312d68d0208125de63.jar"
+        jar="/Users/karan/Projects/THCApplication/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-dc4707c2714f787cbe08a518dc87533b56f0b5a3.jar"
+        jar="/Users/karan/Projects/THCApplication/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/classes-8951ac3ff84ca0926a5f3e308dc63b9780765ccd.jar"
+        jar="/Users/karan/Projects/THCApplication/build/intermediates/exploded-aar/THCApplication.libraries/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="36869a12eb36d5b46728235c656c9bf2dd0e6731"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/bolts-06d3b5b8348d87baf929af8fa30a99c1a1e74162.jar"
+        jar="/Users/karan/Projects/THCApplication/build/intermediates/exploded-aar/THCApplication.libraries.facebook-sdk/facebook/unspecified/libs/bolts.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/classes-5f4ecff7a747245903cf2193897744d07eed7e1f.jar"
+        jar="/Users/karan/Projects/THCApplication/build/intermediates/exploded-aar/THCApplication.libraries.facebook-sdk/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4a0f48b608bec7ccc48bddcb0ee84b4fd93e6b46"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/Parse-1.5.1-241af272604f44930a030b2d84580d12a38d3004.jar"
+        jar="/Users/karan/Projects/THCApplication/app/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-with-sources-8469f5e0c76f75152d35606907ece35ddac9a3f4.jar"
+        jar="/Users/karan/Projects/THCApplication/app/libs/universal-image-loader-1.9.2-with-sources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="111169c43b8a601f571585f75d998e6027e48ff4"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/support-v4-13.0.0-fdfdc97fbb578c244daea4f9f2b39c1b4322920c.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3fe75433da602500cc71fcc1c46e5550291dd45d"/>
+    <item
+        dex="/Users/karan/Projects/THCApplication/app/build/intermediates/pre-dexed/debug/android-support-v4-9cc8e2361d2aaeb77fe91ac7c3cc6c989a1276b8.jar"
+        jar="/Users/karan/Projects/THCApplication/build/intermediates/exploded-aar/THCApplication.libraries.facebook-sdk/facebook/unspecified/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4"/>
+
+</pre-dex-items>
